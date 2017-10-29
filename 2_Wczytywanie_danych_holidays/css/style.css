@@ -1,0 +1,26 @@
+html {
+    background: #E0E0E0;
+}
+body {
+    width: 500px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+}
+
+
+ul {
+    background: #00a99d;
+}
+
+li {
+    padding:5px;
+    font-size: 18px;
+    color:  white;
+    border-top: 1px solid white;
+}
+
+span {
+    /*border: 1px solid white;*/
+    display: inline-block;
+    margin-left:20px;
+}

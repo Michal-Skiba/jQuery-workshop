@@ -1,0 +1,65 @@
+
+body {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.repertuar {
+  border: 1px dotted #4f4f4f;
+  padding: 10px;
+  list-style: none;
+}
+
+.repertuar li {
+  background-color: #F5F5F5;
+  padding: 10px;
+}
+
+
+.movie h3 {
+  float: left;
+  width: 200px;
+  margin: 0;
+}
+
+.movie .removeMovie, .movie .editMovie {
+  float: left;
+  width: 80px;
+  margin-left: 10px;
+}
+
+.seans {
+  clear: both;
+}
+
+.editable {
+  background-color: white !important;
+  border: 1px solid black;
+}
+.updateMovie {
+  display: none;
+}
+
+.movie_description {
+  clear: both;
+  margin-top: 30px;
+  display: block;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+button {
+  display: block;
+  margin-top: 10px;
+}
+
+#addMovie {
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  font-size: 16px;
+}

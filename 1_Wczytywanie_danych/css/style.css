@@ -1,0 +1,20 @@
+body {
+  margin: 0 auto;
+  width:500px;
+}
+
+.repertuar {
+  border: 1px dotted #4f4f4f;
+  padding: 10px;
+  list-style: none;
+}
+
+.repertuar li {
+  background-color: #F5F5F5;
+  padding: 10px;
+}
+
+.repertuar .ticket {
+  display: none;
+  margin-top: 10px;
+}

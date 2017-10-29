@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Joe Black",
+      "description": "Śmierć chce poznać życie"
+    },
+    {
+      "id": 2,
+      "title": "KungFu Panda",
+      "description": "Opowieść o Po"
+    },
+    {
+      "id": 3,
+      "title": "Hobbit- Niezwykła podróż",
+      "description": "Bilbo Bagins dołącza do kompanii krasnoludów"
+    }
+  ]
+}
